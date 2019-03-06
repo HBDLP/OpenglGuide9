@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/VSProject/OpenglGuide9/CMakeLists.txt
+  CMake does not need to re-run because D:/VSProject/OpenglGuide9/build/CMakeFiles/generate.stamp is up-to-date.
+  11-overdrawcount.cpp
+d:\vsproject\openglguide9\include\vmath.h(1022): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  11-overdrawcount.vcxproj -> D:\VSProject\OpenglGuide9\bin\11-overdrawcount_d.exe

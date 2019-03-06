@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/VSProject/OpenglGuide9/CMakeLists.txt
+  CMake does not need to re-run because D:/VSProject/OpenglGuide9/build/CMakeFiles/generate.stamp is up-to-date.
+  06-statictexture.cpp
+d:\vsproject\openglguide9\include\vmath.h(1022): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  06-statictexture.vcxproj -> D:\VSProject\OpenglGuide9\bin\06-statictexture_d.exe

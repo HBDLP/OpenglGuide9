@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/VSProject/OpenglGuide9/lib/glfw/examples/CMakeLists.txt
+  CMake does not need to re-run because D:/VSProject/OpenglGuide9/build/lib/glfw/examples/CMakeFiles/generate.stamp is up-to-date.
+  particles.c
+  tinycthread.c
+  getopt.c
+  正在生成代码...
+  particles.vcxproj -> D:\VSProject\OpenglGuide9\bin\particles.exe

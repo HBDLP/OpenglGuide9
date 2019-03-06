@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/VSProject/OpenglGuide9/CMakeLists.txt
+  CMake does not need to re-run because D:/VSProject/OpenglGuide9/build/CMakeFiles/generate.stamp is up-to-date.
+  09-simpletess.cpp
+d:\vsproject\openglguide9\src\09-simpletess\09-simpletess.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  09-simpletess.vcxproj -> D:\VSProject\OpenglGuide9\bin\09-simpletess_d.exe
